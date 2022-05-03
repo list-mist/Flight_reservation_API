@@ -89,7 +89,7 @@ DATABASES = {
         'PORT':3306,
         'NAME':'flight', 
         'USER':'root',
-        'PASSWORD':'golumolu4',
+        'PASSWORD':'',
     }
 }
 
